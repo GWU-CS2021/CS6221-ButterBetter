@@ -5,3 +5,8 @@ rWJsQKHCzssDg6CZ
 
 # VM
 ssh -i butter.pem ubuntu@3.145.21.203
+
+
+# postgres
+jdbc:postgresql://3.145.21.203:5432/postgres
+rWJsQKHCzssDg6CZ
