@@ -1,0 +1,7 @@
+# Redshift
+jdbc:redshift://redshift-cluster-1.cpepvumugfyg.us-east-2.redshift.amazonaws.com:5439/dev
+butter_admin
+rWJsQKHCzssDg6CZ
+
+# VM
+ssh -i butter.pem ubuntu@3.145.21.203
