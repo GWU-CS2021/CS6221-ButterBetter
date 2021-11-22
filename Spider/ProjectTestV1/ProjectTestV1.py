@@ -1,30 +1,39 @@
 import populartimes
-import json
+import tools
+import requests
 
-#function PreJson
-def PreJson(filename):
-    f = open(filename, 'r')
-    content = eval(f.read())
-    f.close()
-    p_content = json.dumps(content,sort_keys = False, indent = 2)
-    f = open('Pre'+filename, 'w')
-    f.write(p_content)
-    f.close()
+#function text_process
+def text_process(text):
+    head = 'https://maps.googleapis.com/maps/api/place/textsearch/json?query='
+    text = text.replace(' ','%20')
+    tail1 = '&radius=500'
+    tail0 = '&key=' + YOUR_API_KEY
+    return head + text + tail1 + tail0
 
+#Parameters
 #Google API KEY
 YOUR_API_KEY = 'AIzaSyC4DMtNlVt4fQrDry1SJU4AtwE6750x61c'
 #Type of searching ([str] example: [restaurant])
-SearchType = "restaurant"
+search_type = "restaurant"
 #Test current location as GWU in Google Map (38.899793, -77.048584)
-CurrentLat = 38.899793
-CurrentLng = -77.048584
+current_lat = 38.899793
+current_lng = -77.048584
 #Set param for bound
-BoundLowerLat = CurrentLat-0.005
-BoundLowerLng = CurrentLng-0.02
-BoundUpperLat = CurrentLat+0.005
-BoundUpperLng = CurrentLng+0.02
+bound_lower_lat = current_lat-0.00025
+bound_lower_lng = current_lng-0.001
+bound_upper_lat = current_lat+0.00025
+bound_upper_lng = current_lng+0.001
 #Set radius
-Radius = 50000
+radius = 5000
+#text
+text = 'restaurants nearby George Washington University, DC'
+#text search URL
+url = text_process(text)
+#response setting
+payload={}
+headers = {}
+#get textsearch response
+text_response = requests.request("GET", url, headers=headers, data=payload)
 
 '''
 Result = populartimes.get_id(YOUR_API_KEY, "ChIJSYuuSx9awokRyrrOFTGg0GY")
@@ -38,13 +47,16 @@ ResultTxt.close()
 '''
 
 #Popolartimes_get_method
-Result = populartimes.get(YOUR_API_KEY, [SearchType], (BoundLowerLat, BoundLowerLng), (BoundUpperLat, BoundUpperLng))
-#Result = populartimes.get(YOUR_API_KEY, [SearchType], (48.132986, 11.566126), (48.142199, 11.580047))
-ResultTxt = open('resultGet.json', 'w')
+pop_result = populartimes.get(YOUR_API_KEY, [search_type], (bound_lower_lat, bound_lower_lng), (bound_upper_lat, bound_upper_lng))
+#Result = populartimes.get(YOUR_API_KEY, [search_type], (48.132986, 11.566126), (48.142199, 11.580047))
 
-ResultJS = json.dumps(Result)
-ResultTxt.write(ResultJS)
+#output part
+#output 'populartimes'
+pop_file = './popularResult.json'
+pro_pop_file = './proPopularResult.json'
+tools.json_write(pop_file,pop_result)
+tools.json_file_process(pop_file,pro_pop_file)
 
-ResultTxt.close()
-
-PreJson('resultGet.json')
+#output 'textsearch'
+text_file = './textResult.json'
+tools.json_write(text_file,text_response.text)
