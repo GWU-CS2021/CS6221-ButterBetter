@@ -55,9 +55,12 @@ def search_id_by_name(name):
 id = search_id_by_name('North Italia')
 
 # Text_search -> id -> popularity_search
+# The final search result is in popularity_result.json
 if(id != None):
     result = sp.get_id_to_json(API_KEY,id,pop_file)
     print(result)
+
+
 
 
 
