@@ -1,0 +1,18 @@
+{
+  "id": "ChIJv_VRgLG3t4kR2zE3zRO_Mfo",
+  "name": "Colonial Bistro",
+  "address": "The George Washington University, 2300 I St NW, Washington, DC 20052, USA",
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "coordinates": {
+    "lat": 38.900097,
+    "lng": -77.05080079999999
+  },
+  "rating": 5,
+  "rating_n": 1,
+  "international_phone_number": "+1 202-994-8745"
+}

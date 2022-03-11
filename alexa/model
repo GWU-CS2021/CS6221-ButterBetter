@@ -1,0 +1,528 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "minute food",
+            "intents": [
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                },
+                {
+                    "name": "HelloWorldIntent",
+                    "slots": [],
+                    "samples": [
+                        "hello",
+                        "how are you",
+                        "say hi world",
+                        "say hi",
+                        "hi",
+                        "say hello world",
+                        "say hello"
+                    ]
+                },
+                {
+                    "name": "AMAZON.NavigateHomeIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.FallbackIntent",
+                    "samples": [
+                        "search again",
+                        "restart"
+                    ]
+                },
+                {
+                    "name": "NameIntent",
+                    "slots": [
+                        {
+                            "name": "user_name",
+                            "type": "AMAZON.FirstName",
+                            "samples": [
+                                "{user_name}",
+                                "my name is {user_name}",
+                                "I'm {user_name}"
+                            ]
+                        }
+                    ],
+                    "samples": [
+                        "call me {user_name}",
+                        "I'm {user_name}",
+                        "My name is {user_name} "
+                    ]
+                },
+                {
+                    "name": "LocationIntent",
+                    "slots": [
+                        {
+                            "name": "location",
+                            "type": "AMAZON.StreetAddress",
+                            "samples": [
+                                "{location}"
+                            ]
+                        }
+                    ],
+                    "samples": [
+                        "I'm around {location}",
+                        "I'm currently at {location}",
+                        "I'm at {location}"
+                    ]
+                },
+                {
+                    "name": "SearchIntent",
+                    "slots": [
+                        {
+                            "name": "type",
+                            "type": "restaurantType",
+                            "samples": [
+                                "{type}"
+                            ]
+                        }
+                    ],
+                    "samples": [
+                        "{type} around",
+                        "best {type} around",
+                        "{type} restaurant",
+                        "{type} food",
+                        "{type}",
+                        "recommend me on {type}",
+                        "give me some {type}"
+                    ]
+                },
+                {
+                    "name": "PreferIntent",
+                    "slots": [
+                        {
+                            "name": "pref_a",
+                            "type": "restaurantPrefer"
+                        },
+                        {
+                            "name": "pref_b",
+                            "type": "restaurantPrefer"
+                        }
+                    ],
+                    "samples": [
+                        "{pref_a} restaurant {pref_b}",
+                        "I prefer {pref_a} and {pref_b} ones",
+                        "I prefer {pref_a}",
+                        "{pref_a}",
+                        "{pref_a} and {pref_b}"
+                    ]
+                },
+                {
+                    "name": "AMAZON.NextIntent",
+                    "samples": [
+                        "random",
+                        "next",
+                        "give me another one",
+                        "anything else"
+                    ]
+                },
+                {
+                    "name": "AMAZON.SendToPhoneIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.PreviousIntent",
+                    "samples": []
+                },
+                {
+                    "name": "ReviewIntent",
+                    "slots": [],
+                    "samples": [
+                        "show review",
+                        "give me some review",
+                        "show me some review",
+                        "show me some review about it"
+                    ]
+                },
+                {
+                    "name": "AMAZON.RepeatIntent",
+                    "samples": []
+                }
+            ],
+            "types": [
+                {
+                    "name": "restaurantType",
+                    "values": [
+                        {
+                            "id": "thai",
+                            "name": {
+                                "value": "thai"
+                            }
+                        },
+                        {
+                            "id": "mediterranean",
+                            "name": {
+                                "value": "mediterranean"
+                            }
+                        },
+                        {
+                            "id": "french",
+                            "name": {
+                                "value": "french"
+                            }
+                        },
+                        {
+                            "id": "mexican",
+                            "name": {
+                                "value": "mexican"
+                            }
+                        },
+                        {
+                            "id": "sushi",
+                            "name": {
+                                "value": "sushi"
+                            }
+                        },
+                        {
+                            "id": "seafood",
+                            "name": {
+                                "value": "seafood"
+                            }
+                        },
+                        {
+                            "id": "grill",
+                            "name": {
+                                "value": "grill"
+                            }
+                        },
+                        {
+                            "id": "sandwich",
+                            "name": {
+                                "value": "sandwich",
+                                "synonyms": [
+                                    "snack food"
+                                ]
+                            }
+                        },
+                        {
+                            "id": "pasta",
+                            "name": {
+                                "value": "pasta",
+                                "synonyms": [
+                                    "italian noodle"
+                                ]
+                            }
+                        },
+                        {
+                            "id": "salad",
+                            "name": {
+                                "value": "salad",
+                                "synonyms": [
+                                    "health"
+                                ]
+                            }
+                        },
+                        {
+                            "id": "bar",
+                            "name": {
+                                "value": "bar",
+                                "synonyms": [
+                                    "beer house",
+                                    "beer"
+                                ]
+                            }
+                        },
+                        {
+                            "id": "family",
+                            "name": {
+                                "value": "family",
+                                "synonyms": [
+                                    "family party",
+                                    "celebration"
+                                ]
+                            }
+                        },
+                        {
+                            "id": "cafe",
+                            "name": {
+                                "value": "cafe",
+                                "synonyms": [
+                                    "coffee shop",
+                                    "cafeteria",
+                                    "coffee"
+                                ]
+                            }
+                        },
+                        {
+                            "id": "fast",
+                            "name": {
+                                "value": "fast",
+                                "synonyms": [
+                                    "fastfood"
+                                ]
+                            }
+                        },
+                        {
+                            "id": "taco",
+                            "name": {
+                                "value": "taco",
+                                "synonyms": [
+                                    "mexican taco",
+                                    "tio taco",
+                                    "taco shop"
+                                ]
+                            }
+                        },
+                        {
+                            "id": "ramen",
+                            "name": {
+                                "value": "ramen",
+                                "synonyms": [
+                                    "japanese ramen"
+                                ]
+                            }
+                        },
+                        {
+                            "id": "pizza",
+                            "name": {
+                                "value": "pizza",
+                                "synonyms": [
+                                    "pizza shop"
+                                ]
+                            }
+                        },
+                        {
+                            "id": "barbecue",
+                            "name": {
+                                "value": "barbecue"
+                            }
+                        },
+                        {
+                            "id": "steak",
+                            "name": {
+                                "value": "steak",
+                                "synonyms": [
+                                    "beefsteak",
+                                    "steakhouse"
+                                ]
+                            }
+                        },
+                        {
+                            "id": "american",
+                            "name": {
+                                "value": "american"
+                            }
+                        },
+                        {
+                            "id": "halal",
+                            "name": {
+                                "value": "halal",
+                                "synonyms": [
+                                    "islanmic"
+                                ]
+                            }
+                        },
+                        {
+                            "id": "indian",
+                            "name": {
+                                "value": "indian"
+                            }
+                        },
+                        {
+                            "id": "tai",
+                            "name": {
+                                "value": "tai"
+                            }
+                        },
+                        {
+                            "id": "korean",
+                            "name": {
+                                "value": "korean"
+                            }
+                        },
+                        {
+                            "id": "chinese",
+                            "name": {
+                                "value": "chinese"
+                            }
+                        },
+                        {
+                            "id": "japanese",
+                            "name": {
+                                "value": "japanese"
+                            }
+                        },
+                        {
+                            "id": "asian",
+                            "name": {
+                                "value": "asian"
+                            }
+                        },
+                        {
+                            "id": "italian",
+                            "name": {
+                                "value": "italian"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "restaurantPrefer",
+                    "values": [
+                        {
+                            "id": "best",
+                            "name": {
+                                "value": "best",
+                                "synonyms": [
+                                    "fine",
+                                    "delicious",
+                                    "highly rated"
+                                ]
+                            }
+                        },
+                        {
+                            "id": "near",
+                            "name": {
+                                "value": "near",
+                                "synonyms": [
+                                    "with in walk distance",
+                                    "with in walk range",
+                                    "with in foot range",
+                                    "closest",
+                                    "nearest"
+                                ]
+                            }
+                        },
+                        {
+                            "id": "wait",
+                            "name": {
+                                "value": "wait",
+                                "synonyms": [
+                                    "no wait",
+                                    "quiet",
+                                    "no wait time",
+                                    "less crowded",
+                                    "not crowded",
+                                    "no line",
+                                    "don't need to wait"
+                                ]
+                            }
+                        },
+                        {
+                            "id": "cheap",
+                            "name": {
+                                "value": "cheap",
+                                "synonyms": [
+                                    "affordable",
+                                    "economic",
+                                    "cheapest"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        "dialog": {
+            "intents": [
+                {
+                    "name": "NameIntent",
+                    "confirmationRequired": false,
+                    "prompts": {},
+                    "slots": [
+                        {
+                            "name": "user_name",
+                            "type": "AMAZON.FirstName",
+                            "confirmationRequired": false,
+                            "elicitationRequired": true,
+                            "prompts": {
+                                "elicitation": "Elicit.Slot.566557651936.7987900948"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "LocationIntent",
+                    "confirmationRequired": true,
+                    "prompts": {
+                        "confirmation": "Confirm.Intent.1019005282341"
+                    },
+                    "slots": [
+                        {
+                            "name": "location",
+                            "type": "AMAZON.StreetAddress",
+                            "confirmationRequired": false,
+                            "elicitationRequired": true,
+                            "prompts": {
+                                "elicitation": "Elicit.Slot.1019005282341.717469923105"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "SearchIntent",
+                    "confirmationRequired": false,
+                    "prompts": {},
+                    "slots": [
+                        {
+                            "name": "type",
+                            "type": "restaurantType",
+                            "confirmationRequired": false,
+                            "elicitationRequired": true,
+                            "prompts": {
+                                "elicitation": "Elicit.Slot.369105475370.717396793313"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "delegationStrategy": "ALWAYS"
+        },
+        "prompts": [
+            {
+                "id": "Elicit.Slot.566557651936.7987900948",
+                "variations": [
+                    {
+                        "type": "PlainText",
+                        "value": "Please tell me your name"
+                    }
+                ]
+            },
+            {
+                "id": "Confirm.Intent.1019005282341",
+                "variations": [
+                    {
+                        "type": "PlainText",
+                        "value": "{location} right?"
+                    }
+                ]
+            },
+            {
+                "id": "Confirm.Slot.1019005282341.717469923105",
+                "variations": [
+                    {
+                        "type": "PlainText",
+                        "value": "{location} right?"
+                    }
+                ]
+            },
+            {
+                "id": "Elicit.Slot.1019005282341.717469923105",
+                "variations": [
+                    {
+                        "type": "PlainText",
+                        "value": "Sorry I didn't get that, where are you again?"
+                    }
+                ]
+            },
+            {
+                "id": "Elicit.Slot.369105475370.717396793313",
+                "variations": [
+                    {
+                        "type": "PlainText",
+                        "value": "Please tell me the type of food you like, you could try 'ramen'"
+                    }
+                ]
+            }
+        ]
+    }
+}

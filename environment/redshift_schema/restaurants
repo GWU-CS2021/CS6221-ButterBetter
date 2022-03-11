@@ -1,0 +1,50 @@
+-- auto-generated definition
+create table restaurants
+(
+    id                integer encode az64,
+    name              varchar(1023),
+    short             varchar(15),
+    address           varchar(1023),
+    types             varchar(15),
+    address_geo       geometry,
+    user_rating       integer encode az64,
+    user_rating_count integer encode az64,
+    price_level       integer encode az64,
+    image_url         varchar(256),
+    refresh_url       varchar(256),
+    tel               integer encode az64,
+    tags              varchar(256),
+    open_hour         integer encode az64,
+    close_hour        integer encode az64,
+    busy_level        integer encode az64,
+    busy_00           integer encode az64,
+    busy_01           integer encode az64,
+    busy_02           integer encode az64,
+    busy_03           integer encode az64,
+    busy_04           integer encode az64,
+    busy_05           integer encode az64,
+    busy_06           integer encode az64,
+    busy_07           integer encode az64,
+    busy_08           integer encode az64,
+    busy_09           integer encode az64,
+    busy_10           integer encode az64,
+    busy_11           integer encode az64,
+    busy_12           integer encode az64,
+    busy_13           integer encode az64,
+    busy_14           integer encode az64,
+    busy_15           integer encode az64,
+    busy_16           integer encode az64,
+    busy_17           integer encode az64,
+    busy_18           integer encode az64,
+    busy_19           integer encode az64,
+    busy_20           integer encode az64,
+    busy_21           integer encode az64,
+    busy_22           integer encode az64,
+    busy_23           integer encode az64,
+    create_time       timestamp default now() encode az64,
+    update_time       timestamp encode az64
+);
+
+alter table restaurants
+    owner to butter_admin;
+ 

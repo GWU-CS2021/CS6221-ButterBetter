@@ -1,0 +1,21 @@
+# store_info
+store_id int
+location point
+name     varchar
+
+# category
+category_id int
+name        varchar
+look_up_word   varchar
+
+# category_store_mapping
+category_id int
+store_id    int
+spider_url  varchar
+
+# catagory_info
+category_id int
+store_id int
+datetime timestamp
+price    int
+

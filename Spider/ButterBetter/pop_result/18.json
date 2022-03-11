@@ -1,0 +1,18 @@
+{
+  "id": "ChIJb0RB-bG3t4kR_IBFx_bUv9A",
+  "name": "Cafe Gallery",
+  "address": "The George Washington University, 616 23rd St NW, Washington, DC 20037, USA",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "coordinates": {
+    "lat": 38.8979088,
+    "lng": -77.05052289999999
+  },
+  "rating": 4.1,
+  "rating_n": 7,
+  "international_phone_number": "+1 202-558-9195"
+}

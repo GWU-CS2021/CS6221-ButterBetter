@@ -1,0 +1,19 @@
+{
+  "id": "ChIJx5ui1a-3t4kRWjrVMZzK9Gg",
+  "name": "Garden Cafe",
+  "address": "2116 F St NW, Washington, DC 20037, USA",
+  "types": [
+    "cafe",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "coordinates": {
+    "lat": 38.8971984,
+    "lng": -77.0471393
+  },
+  "rating": 4,
+  "rating_n": 69,
+  "international_phone_number": "+1 202-861-0331"
+}

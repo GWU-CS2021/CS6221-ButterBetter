@@ -1,0 +1,19 @@
+{
+  "id": "ChIJwf9lG0y2t4kRNtwv7dUtnEU",
+  "name": "Degrees Bistro",
+  "address": "3100 South Street NW, Washington, DC 20007, USA",
+  "types": [
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "coordinates": {
+    "lat": 38.9031029,
+    "lng": -77.0617839
+  },
+  "rating": 4.3,
+  "rating_n": 22,
+  "international_phone_number": "+1 202-912-4100"
+}

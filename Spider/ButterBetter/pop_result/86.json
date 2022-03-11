@@ -1,0 +1,18 @@
+{
+  "id": "ChIJsypJEU23t4kR5IDf2P6xhl8",
+  "name": "Tasting Room Georgetown",
+  "address": "1073 31st St NW 2nd floor, Washington, DC 20007, USA",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "coordinates": {
+    "lat": 38.9046196,
+    "lng": -77.0608986
+  },
+  "rating": 5,
+  "rating_n": 13,
+  "international_phone_number": "+1 202-941-6830"
+}

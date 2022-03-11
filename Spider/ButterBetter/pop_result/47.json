@@ -1,0 +1,19 @@
+{
+  "id": "ChIJF8cNt2K3t4kR2ZPsYeT1RAw",
+  "name": "Roaming Rooster",
+  "address": "2000 Pennsylvania Avenue NW Stall #6, Washington, DC 20006, USA",
+  "types": [
+    "meal_takeaway",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "coordinates": {
+    "lat": 38.90035379999999,
+    "lng": -77.04577429999999
+  },
+  "rating": 4.5,
+  "rating_n": 2,
+  "international_phone_number": "+1 202-748-5137"
+}

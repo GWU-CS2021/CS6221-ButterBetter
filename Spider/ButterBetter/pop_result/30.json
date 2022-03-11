@@ -1,0 +1,19 @@
+{
+  "id": "ChIJq1gnsLq3t4kRDeDhiAxOXqk",
+  "name": "Cafe Aria",
+  "address": "1917 F St NW, Washington, DC 20006, USA",
+  "types": [
+    "cafe",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "coordinates": {
+    "lat": 38.897607,
+    "lng": -77.0437726
+  },
+  "rating": 4.3,
+  "rating_n": 117,
+  "international_phone_number": "+1 202-589-0899"
+}

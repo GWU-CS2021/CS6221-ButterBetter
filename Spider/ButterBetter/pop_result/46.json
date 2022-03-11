@@ -1,0 +1,18 @@
+{
+  "id": "ChIJCwzZlLG3t4kRAeDXBjuKDmk",
+  "name": "Point Chaud Caf\u00e9 & Cr\u00eapes",
+  "address": "2201 G St NW, Washington, DC 20052, USA",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "coordinates": {
+    "lat": 38.89874329999999,
+    "lng": -77.0491645
+  },
+  "rating": 3.6,
+  "rating_n": 20,
+  "international_phone_number": "+1 202-822-8022"
+}

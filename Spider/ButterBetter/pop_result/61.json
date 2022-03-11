@@ -1,0 +1,18 @@
+{
+  "id": "ChIJy05ZdrS3t4kR1CzYb2IxWxU",
+  "name": "Jardenea",
+  "address": "2430 Pennsylvania Avenue NW, Washington, DC 20037, USA",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "coordinates": {
+    "lat": 38.9029627,
+    "lng": -77.0526242
+  },
+  "rating": 4.3,
+  "rating_n": 79,
+  "international_phone_number": "+1 202-955-6400"
+}

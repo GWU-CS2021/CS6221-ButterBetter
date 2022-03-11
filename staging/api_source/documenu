@@ -1,0 +1,56 @@
+https://english.api.rakuten.net/restaurantmenus/api/documenu?endpoint=apiendpoint_efd6ffdf-ab7a-4a4c-923f-988777f00c73
+https://documenu.com/dashboard/apipreview
+
+full geo/location/tele info
+===================sample==============================
+ID	Restaurant Name	Phone	Cuisines	Address
+3890965477047466	V Falafel	(202) 296-2333	Healthy, Vegetarian	2125 P Street Washington, DC 20037
+3890418077053833	Bayou	(202) 223-6941	Cajun & Creole	2519 Pennsylvania Ave Nw WASHINGTON, DC 20037
+3890397577049803	Ris Restaurant	(202) 730-2500	American (New), Wild Game	2275 L St NW Washington, DC 20037
+3890975577048471	vFalafel	(703) 673-5600	Middle Eastern, Vegetarian	2157 P St NW Washington, DC 20037
+3889721877048160	Foggy Bottom Grocery	(202) 296-0125	American, Healthy, Salads, Sandwiches	2140 F St Nw WASHINGTON, DC 20037
+3890516477049226	Sandella's Flatbread Cafe	(202) 506-6030	Pizza	2238 M St NW WASHINGTON, DC 20037
+3890152477047458	T.G.I. Friday's (Pennsylvania Ave)	(202) 872-4344	American	2100 Pennsylvania Ave NW Washington, DC 20037
+3890546077048416	Starbucks	(202) 293-2012		2109 M St NW Washington, DC 20037
+3890410677047081	Bourbon Coffee	(202) 525-1886		2101 L Street Northwest Washington, DC 20037
+3890482777052399	West Wing Cafe	(202) 525-4442		2400 M Street Northwest Washington, DC 20037
+3889693577047493	Garden Cafe	(202) 861-0331		2116 F Street Northwest Washington, DC 20037
+3889894977054428	Watergate Pastry	(202) 342-1777		2534 Virginia Avenue Northwest Washington, DC 20037
+3889651577050934	Casey's Coffee Inc.	(202) 223-4762		508 23rd Street Northwest Washington, DC 20037
+3890348877052139	Aroma Cafe	(202) 296-6383		2401 Pennsylvania Avenue Northwest Washington, DC 20037
+3890140077050600	Subway	(202) 715-4803		900 23rd Street NW Washington, DC 20037
+3890342077053597	La Piazza	(202) 333-8060		2500 Pennsylvania Avenue Northwest Washington, DC 20037
+3890148577053703	Dish + Drinks	(202) 702-1939		924 25th Street Northwest Washington, DC 20037
+3889690477051178	Easy Eats	(202) 659-1234		538 23rd Street Northwest Washington, DC 20037
+3889900277054428	Zeitoun	(202) 560-5372		2554 Virginia Ave NW Washington, DC 20037
+3890689177049339	District Tap	(202) 449-4008		1250 22nd St NW Washington, DC 20037
+3890477477049011	HoneyFlower	(301) 787-4308		1170 22nd St NW Washington, DC 20037
+3890984777048317	Thai and Pho Bistro	(202) 506-3508		2153 P St NW Washington, DC 20037
+3889640077050900	Subway	(202) 331-7454	Sandwiches	2401 E Street NW Washington, DC 20037
+3890410077053800	Subway	(202) 785-0451	Sandwiches	2517 Pennsylvania Ave NW Washington, DC 20037
+3890950077047000	Vintage78	(202) 652-1423		2100 P St NW Washington, DC 20037
+3890528177054161	Nobu	(202) 871-6565		2525 M Street Northwest Washington, DC 20037
+3890107777049080	Paper Horse	(202) 469-7410		2201 I Street Northwest Washington, DC 20037
+3889854877048271	GW Delicatessen	(202) 331-9391		2133 G Street Northwest Washington, DC 20037
+3890940977047607	Bagels Etc.	(202) 466-7171		2122 P Street Northwest Washington, DC 20037
+3890631977049706	Atrium Cafe Beer and Spirits	(202) 293-1607		1255 23rd Street Northwest Washington, DC 20037
+3890547677049736	Upper West Side Cafe	(202) 736-2233		2233 M Street Northwest Washington, DC 20037
+3889715677049629	&pizza	(202) 849-8497		2224 F St NW Washington, DC 20037
+3890388977050446	Bluestone Lane	(718) 374-6858		1100 23rd St NW Washington, DC 20037
+3890608277048447	The Visiteur	(202) 872-1500		1221 22nd Street Northwest Washington, DC 20037
+3890028877053070	Notti 824	(202) 298-8085		824 New Hampshire Avenue Northwest Washington, DC 20037
+3890653277051857	Honey Tree Deli	(703) 659-7938		1250 24th Street Northwest Washington, DC 20037
+3890143277047897	North Italia	(202) 803-8051		2112 Pennsylvania Avenue Northwest Washington, DC 20037
+3890363977053899	51st State Tavern	(202) 625-2444	Bar Food	2512 L St NW Washington, DC 20037
+3890563377050498	Bread & Chocolate	(202) 833-8360	Bakery & Pastries, Coffee & Tea, Eclectic & International, Sandwiches	2301 M St NW Washington, DC 20037
+3889637477050305	Sizzling Express	(202) 659-1234	Deli Food, Japanese, Pizza, Sandwiches, Sushi	538 23rd St NW Washington, DC 20037
+3890978077047091	Gabriel Restaurant	(202) 956-6690	French, Italian	2121 P St NW WASHINGTON, DC 20037
+3890578477051676	Juniper	(202) 429-2400	American, American (New), Tapas	2401 M St NW Washington, DC 20037
+3890693877049469	Trattoria Nicolas	(202) 449-4011	Italian, Pizza	1250 22nd St NW Washington, DC 20037
+3890978277047432	Urbana	(202) 956-6650	Alcohol, Bistro, Italian	2121 P St NW Washington, DC 20037
+3890404077055227	Ristorante La Perla	(202) 333-1767	Italian	2600 Pennsylvania Ave NW Washington, DC 20037
+3890329877049753	Circle Bistro	(202) 293-5390	American (New), Bistro	1 Washington Cir NW Washington, DC 20037
+3889912177054329	Chens Watergate	(202) 965-4104	Chinese	2542 Virginia Ave NW WASHINGTON, DC 20037
+3890954877047664	Uni A Sushi Place	(202) 833-8038	Japanese, Sushi	2122 P St Nw WASHINGTON, DC 20037
+3890165777048156	Panda Cafe	(202) 337-9119	Chinese, Japanese, Sushi	2138 Pennsylvania Ave NW Washington, DC 20037
+3890069377050125	Starbucks Coffee	(202) 715-4000	American, Coffee & Tea	900 23rd St NW WASHINGTON, DC 20037

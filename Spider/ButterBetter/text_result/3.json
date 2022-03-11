@@ -1,0 +1,921 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "2122 H St NW, Washington, DC 20037, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.8992027,
+               "lng" : -77.0474966
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.90054462989272,
+                  "lng" : -77.04624077010727
+               },
+               "southwest" : {
+                  "lat" : 38.89784497010728,
+                  "lng" : -77.04894042989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "The House Of Falafel",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJd1BoaJO3t4kRQVXx3ukqjt4",
+         "plus_code" : {
+            "compound_code" : "VXX3+M2 Washington, District of Columbia",
+            "global_code" : "87C4VXX3+M2"
+         },
+         "rating" : 0,
+         "reference" : "ChIJd1BoaJO3t4kRQVXx3ukqjt4",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "900 23rd St NW, Washington, DC 20037, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.9014236,
+               "lng" : -77.05056669999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.90244712989272,
+                  "lng" : -77.04942057010726
+               },
+               "southwest" : {
+                  "lat" : 38.89974747010727,
+                  "lng" : -77.05212022989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Subway",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJaxYt37O3t4kROOcROE0_B88",
+         "plus_code" : {
+            "compound_code" : "WW2X+HQ Washington, District of Columbia",
+            "global_code" : "87C4WW2X+HQ"
+         },
+         "price_level" : 1,
+         "rating" : 4,
+         "reference" : "ChIJaxYt37O3t4kROOcROE0_B88",
+         "types" : [
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 51
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "600 New Hampshire Ave NW, Washington, DC 20037, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.897761,
+               "lng" : -77.0549264
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.89906237989273,
+                  "lng" : -77.05349082010727
+               },
+               "southwest" : {
+                  "lat" : 38.89636272010728,
+                  "lng" : -77.05619047989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Tazza Cafe",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJCZR3CPq3t4kR2rGGMiTmYbU",
+         "plus_code" : {
+            "compound_code" : "VWXW+42 Washington, District of Columbia",
+            "global_code" : "87C4VWXW+42"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJCZR3CPq3t4kR2rGGMiTmYbU",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 28
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "2021 F St NW, Washington, DC 20006, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.8975075,
+               "lng" : -77.04553729999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.89878527989271,
+                  "lng" : -77.04422972010727
+               },
+               "southwest" : {
+                  "lat" : 38.89608562010727,
+                  "lng" : -77.04692937989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Carvings",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105478371832489226855\"\u003eEdith Ababio\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDPIADpiFiBUyUW3VCK9-4msVmjBC4U5TCDT-rmzsMihnKAxim5kiJwNEqP2eXZoK3xJooFP3k9N6DTRYqUFMaDevc9we6VJ_nxKZlkxDzf2A3QMYUaGD77dnKYYAOQCtnMwhQbhabGoUL3gXk71xo3zDUkCNhCpaIHFrXrCTkMhdDW",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJmajxBLC3t4kR6PwVcS5lPAY",
+         "plus_code" : {
+            "compound_code" : "VXX3+2Q Washington, District of Columbia",
+            "global_code" : "87C4VXX3+2Q"
+         },
+         "price_level" : 1,
+         "rating" : 4.1,
+         "reference" : "ChIJmajxBLC3t4kR6PwVcS5lPAY",
+         "types" : [
+            "meal_takeaway",
+            "cafe",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 107
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "2423 Pennsylvania Avenue NW, Washington, DC 20037, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.9035782,
+               "lng" : -77.052245
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.90480522989272,
+                  "lng" : -77.05096632010728
+               },
+               "southwest" : {
+                  "lat" : 38.90210557010727,
+                  "lng" : -77.05366597989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "One Fish, Two Fish",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117645483053175769809\"\u003eSarah Ouellette\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAR9gs9CxgSI6SuNu7L1NGevKmwxVLooXWWrR0B_aL9msk1P0H4-1Tb2kuRFCHPuYkmtSp21dAI2P92ZSD4MLjWlYCyz3lPA2t3s1HaUgyv55NsWpaZrkRu1JxwAqkfdmidhCueXBhZL3bUVl0ilhuq8HjyYw_S7nz27JkqHTz3O5Ok",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJo3GMcrS3t4kRKxMFl5TLSHQ",
+         "plus_code" : {
+            "compound_code" : "WW3X+C4 Washington, District of Columbia",
+            "global_code" : "87C4WW3X+C4"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJo3GMcrS3t4kRKxMFl5TLSHQ",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 215
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "2201 G St NW, Washington, DC 20052, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.8987433,
+               "lng" : -77.0491645
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.90017032989272,
+                  "lng" : -77.04765177010728
+               },
+               "southwest" : {
+                  "lat" : 38.89747067010727,
+                  "lng" : -77.05035142989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Point Chaud Café & Crêpes",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104714195351233188615\"\u003eSuJin Choi\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDpRzIq8usgRmYyszAih4lvQVf7RCpOhdZGqOQCBe-HTdJ3dgEpQUhLNrIUgqYUzShE-_Dy_ZLm1ltsa3rUPPoP5PmtBBV7AONtvf6GdEzIUwmXTjXQWQVgL84fRa7vuHN_WYlFadvWw4ZrKFJUrpJTBBPOCp5cKMesqb1c4MhX3ZZg",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJCwzZlLG3t4kRAeDXBjuKDmk",
+         "plus_code" : {
+            "compound_code" : "VXX2+F8 Washington, District of Columbia",
+            "global_code" : "87C4VXX2+F8"
+         },
+         "price_level" : 1,
+         "rating" : 3.6,
+         "reference" : "ChIJCwzZlLG3t4kRAeDXBjuKDmk",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 20
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "2000 Pennsylvania Avenue NW Stall #6, Washington, DC 20006, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.9003538,
+               "lng" : -77.04577429999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.90187787989272,
+                  "lng" : -77.04445632010729
+               },
+               "southwest" : {
+                  "lat" : 38.89917822010727,
+                  "lng" : -77.04715597989274
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Roaming Rooster",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104211693019006633350\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAROpadZA1tAM6RpPY3o3lb07vFDENM_lR5MBO4_BHLuVAHHmtP2eEfISJKLeN15KpFylbwv-gdQ1sJbAXR9fJoi1JbkK-lFIld8AALgTN85pph2ilFAem5ZCn29iKar4n4dyt1ZwTe7KldoSj41snz1-5jY-oo5K75vSXmdgXaDy3D",
+               "width" : 2044
+            }
+         ],
+         "place_id" : "ChIJF8cNt2K3t4kR2ZPsYeT1RAw",
+         "plus_code" : {
+            "compound_code" : "WX23+4M Washington, District of Columbia",
+            "global_code" : "87C4WX23+4M"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJF8cNt2K3t4kR2ZPsYeT1RAw",
+         "types" : [
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "2301 G St NW, Washington, DC 20037, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.8986758,
+               "lng" : -77.0505091
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.89984837989272,
+                  "lng" : -77.04917802010728
+               },
+               "southwest" : {
+                  "lat" : 38.89714872010728,
+                  "lng" : -77.05187767989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "South Block",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1156,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110098627092955528385\"\u003eCampus Fresh\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECCCAYZc4cOFVIOXfjyQYBoS5YQnoFao7Q1xNPvsDUJLWRmIvICoNRyhaCtJea-sjgyKiAokQ4clrhYUZB5frXwMYS86Ud7ZYMBtsh8WbXtlqfxF_t4dZe8d_T8qOYbgALAGuTrQm5Ur16K0Z7a8yWK-cW232V3TmeEF44NcbFgsOQX",
+               "width" : 1180
+            }
+         ],
+         "place_id" : "ChIJJcle8LG3t4kRn3bCbjSGIB0",
+         "plus_code" : {
+            "compound_code" : "VWXX+FQ Washington, District of Columbia",
+            "global_code" : "87C4VWXX+FQ"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJJcle8LG3t4kRn3bCbjSGIB0",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 50
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "800 21st St NW, Washington, DC 20052, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.900174,
+               "lng" : -77.0468051
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.90152462989272,
+                  "lng" : -77.04538202010728
+               },
+               "southwest" : {
+                  "lat" : 38.89882497010728,
+                  "lng" : -77.04808167989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Panera Bread",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 500,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114006211349418081194\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDg1vhcBtLHhykCZsCKYiaFpF4dVXJqEM1yg-2SuA5S1BsTAPJSVSWMylN1RJHmbsfNk-SIVQ-ZE01MVDyGZZErRBbQNU-RrwKa7AiK4e_kp8h6nu7VcQOBbx-hsl5BWi_cGxqW2lrYdEs0xhlZNI8nRaOk7lySJ-aD6J5Hsurytw96",
+               "width" : 500
+            }
+         ],
+         "place_id" : "ChIJ3bbM-bC3t4kRGlMGbDgwjFw",
+         "plus_code" : {
+            "compound_code" : "WX23+37 Washington, District of Columbia",
+            "global_code" : "87C4WX23+37"
+         },
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "ChIJ3bbM-bC3t4kRGlMGbDgwjFw",
+         "types" : [
+            "cafe",
+            "bakery",
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 56
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "1928 I St NW, Washington, DC 20006, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.901147,
+               "lng" : -77.044714
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.90250072989272,
+                  "lng" : -77.04346127010727
+               },
+               "southwest" : {
+                  "lat" : 38.89980107010728,
+                  "lng" : -77.04616092989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "PoppaBox",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJKaLXC7q3t4kRCp1DK7fqhIM",
+         "plus_code" : {
+            "compound_code" : "WX24+F4 Washington, District of Columbia",
+            "global_code" : "87C4WX24+F4"
+         },
+         "price_level" : 1,
+         "rating" : 4.2,
+         "reference" : "ChIJKaLXC7q3t4kRCp1DK7fqhIM",
+         "types" : [ "restaurant", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 292
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "2142 L St NW, Washington, DC 20037, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.9035686,
+               "lng" : -77.0482944
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.90500387989272,
+                  "lng" : -77.04693367010728
+               },
+               "southwest" : {
+                  "lat" : 38.90230422010728,
+                  "lng" : -77.04963332989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Char Bar",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100688497493539712488\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAdTICTDPhQx21NeOK-7EWRP_KrrylvAc1JBZjSo2zO04MI-xPmT-heXd6NuYVDWPAGtFBp7BplCJmAKdRY3iKiYrO2S19sFuovLe5x_2M6j--9Tu05uWspQU3hfVSK0tGCQkSxb6_GLeDIl1KJ1nf8y-p_OQK9jAOdqtgBX-Mg0HaB",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJ9WFC3La3t4kRHN7IQrqFvEw",
+         "plus_code" : {
+            "compound_code" : "WX32+CM Washington, District of Columbia",
+            "global_code" : "87C4WX32+CM"
+         },
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "ChIJ9WFC3La3t4kRHN7IQrqFvEw",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 712
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "2514 L St NW, Washington, DC 20037, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.9035518,
+               "lng" : -77.05399109999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.90500307989272,
+                  "lng" : -77.05263777010727
+               },
+               "southwest" : {
+                  "lat" : 38.90230342010728,
+                  "lng" : -77.05533742989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Charm Thai",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3480,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103797922228350294190\"\u003echichi gates\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECo7P-TaSApLsNrILa6cIxlNxFy0z9kaZaiscroAgcqsffEgh2wQZa7yjSDwKhhB8Vb-CzjxAPbODXww0qB_4pDQgGuX4zPXYU4XdrFV567L10PwAo9BhwUQFZsrhxnSvQLo8RRllzWOZ2wmx4SEWFKv2AXLepsYYbkDmKKGhSMKjOo",
+               "width" : 4640
+            }
+         ],
+         "place_id" : "ChIJDXQ2hLS3t4kRNK5lsYKvKF4",
+         "plus_code" : {
+            "compound_code" : "WW3W+CC Washington, District of Columbia",
+            "global_code" : "87C4WW3W+CC"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJDXQ2hLS3t4kRNK5lsYKvKF4",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 223
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "2101 L St NW, Washington, DC 20037, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.9042694,
+               "lng" : -77.0468083
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.90537772989273,
+                  "lng" : -77.04578417010727
+               },
+               "southwest" : {
+                  "lat" : 38.90267807010729,
+                  "lng" : -77.04848382989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Soi 38",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101753983184847464221\"\u003eaegreve\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uED9bSfbEBKv36P5hwT5I094-6ZrzKFSF_3EcBj8aiee2AhZrqGD29Xv6HFfpUCVeN2aNh0Wu1M4xEpstfEd0BKNXbXQHRr16vSucMr_XCkRPkMNNbpq0IXHT4nwKk54kYhgcql5iOcCFChJ0nMfh6Nv8UJTZiVMc5TFdH_R6_eFf-F_",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJPdIrEbe3t4kRdW8M2pswDwo",
+         "plus_code" : {
+            "compound_code" : "WX33+P7 Washington, District of Columbia",
+            "global_code" : "87C4WX33+P7"
+         },
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "ChIJPdIrEbe3t4kRdW8M2pswDwo",
+         "types" : [ "bar", "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 634
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "2224 F St NW, Washington, DC 20037, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.8971935,
+               "lng" : -77.0497594
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.89862827989272,
+                  "lng" : -77.04837887010727
+               },
+               "southwest" : {
+                  "lat" : 38.89592862010727,
+                  "lng" : -77.05107852989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+         "name" : "Hive Bar",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJHS2KG663t4kR1vLxntzVN8M",
+         "plus_code" : {
+            "compound_code" : "VXW2+V3 Washington, District of Columbia",
+            "global_code" : "87C4VXW2+V3"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJHS2KG663t4kR1vLxntzVN8M",
+         "types" : [ "bar", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 263
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "2023 G St NW, Washington, DC 20052, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.8985368,
+               "lng" : -77.0458908
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.89978462989272,
+                  "lng" : -77.04466337010727
+               },
+               "southwest" : {
+                  "lat" : 38.89708497010727,
+                  "lng" : -77.04736302989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Uptowner Cafe",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112843258597784342178\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECJdMJv0dM95PwfpY_guv3CqjKTPT-paJuVMx2YTTwfJeHEXCSD4cBDw33wYSg21ookC5c-ZdGm6U6g7CEM7zjZ4xCa3EwgIyctlV9FooAFS5hkgGktuxs0K_nwu5oVAX0ZPju6Kn2pJ2WxL6DLfJzTYbFjvvB9bJNvm5IYeoeuhnYr",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJ8cBUc7C3t4kRGebcO8npdeQ",
+         "plus_code" : {
+            "compound_code" : "VXX3+CJ Washington, District of Columbia",
+            "global_code" : "87C4VXX3+CJ"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJ8cBUc7C3t4kRGebcO8npdeQ",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 23
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "formatted_address" : "825 20th St NW, Washington, DC 20006, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.9010656,
+               "lng" : -77.0446742
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.90218092989272,
+                  "lng" : -77.04321107010728
+               },
+               "southwest" : {
+                  "lat" : 38.89948127010727,
+                  "lng" : -77.04591072989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Penn Grill",
+         "permanently_closed" : true,
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102326611912516660203\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDAlSYqA7sDnLjWql0hcYSje4V6-XXG-zBSQOhDWCQZPcuO_ZqFCHmXUL5D6VJ6T5QehCyQ9lj0SRJJKQD7o-nOC9T7rthBf6qcIU4SX-Tbn_VeWCTOqLTAZKhsScl69mAP0fQhtGKruYftdtMIV04XBnrcHaDxISj_P8Jpte459PhT",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJPRlGCrq3t4kR8D2xs_cstZE",
+         "plus_code" : {
+            "compound_code" : "WX24+C4 Washington, District of Columbia",
+            "global_code" : "87C4WX24+C4"
+         },
+         "price_level" : 1,
+         "rating" : 4.5,
+         "reference" : "ChIJPRlGCrq3t4kR8D2xs_cstZE",
+         "types" : [
+            "meal_delivery",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 155
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "2000 Pennsylvania Avenue NW, Washington, DC 20006, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.9003063,
+               "lng" : -77.0450776
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.90185412989272,
+                  "lng" : -77.04410797010729
+               },
+               "southwest" : {
+                  "lat" : 38.89915447010728,
+                  "lng" : -77.04680762989274
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "PAUL Foggy Bottom",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108823863836720515661\"\u003eLev Agranovich, EA MSA CFC PA CDFA\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAE3PKaNuVjqMlw4BFR0-ay1I8hceHV72x7nbM8pMN5Mh_zFYWyPRr4FYQ7jpzwLxs8fiABxYQ9wNl3fJX1YNJnF9_agvLYR1QWMJDkmfx_Qy7on7oTraKKh4RRn_2eEfeFvfIZVwbk6IJUijgvA8KFGOfYP_PoC4uZ84fn662bJf27",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJTYNKhbC3t4kRUud1tYxRxt0",
+         "plus_code" : {
+            "compound_code" : "WX23+4X Washington, District of Columbia",
+            "global_code" : "87C4WX23+4X"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJTYNKhbC3t4kRUud1tYxRxt0",
+         "types" : [
+            "bakery",
+            "meal_takeaway",
+            "cafe",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 290
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "1719 G St NW, Washington, DC 20006, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.8985108,
+               "lng" : -77.0403604
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.89976672989272,
+                  "lng" : -77.03908552010726
+               },
+               "southwest" : {
+                  "lat" : 38.89706707010727,
+                  "lng" : -77.04178517989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+         "name" : "The Exchange Saloon",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112061650927758448763\"\u003eMartha Lanser Bloemer\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEALwNRyOSRRk2uwZxJn-1-gjUpBeBAC5A-Ch92D8UycDGPezyfC-VFVsS5xLiROLatOPuOQqBetvQdmVw88YUnoLnfXrrmnWK6QMvu0lYyRMBCS05Ys5V1Q1LC-LJW_ARoTWy5STAMpfnyVkFwT_4XN0HsB74BPI60Upjq-OWHQs_Nd",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJr3GLbbu3t4kRu9DFOwORiuo",
+         "plus_code" : {
+            "compound_code" : "VXX5+CV Washington, District of Columbia",
+            "global_code" : "87C4VXX5+CV"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJr3GLbbu3t4kRu9DFOwORiuo",
+         "types" : [ "bar", "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 418
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "2700 F St NW, Washington, DC 20566, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.8951806,
+               "lng" : -77.0553944
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.89647727989272,
+                  "lng" : -77.05404482010728
+               },
+               "southwest" : {
+                  "lat" : 38.89377762010728,
+                  "lng" : -77.05674447989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "KC Café",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109638532454150577847\"\u003eNicole\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDCH1ULLqxrnTm0NAbaCL0O8YYGqTT_2X_JEMQ_G8HyFNEBXgGyCYqL_8LDfXvcT3dW5JXQYffeLJAzENhxjOjPazwoR_CNAtWGLnfnbmQt9Kv3x21-UOQ0LmHd_WaT205Lu3vwq-HYebR0oXPIUV9KQRXd5wt1Yi3SpHsPgDOxJaiZ",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJfbcbI623t4kRG0BhsUK7Bys",
+         "plus_code" : {
+            "compound_code" : "VWWV+3R Washington, District of Columbia",
+            "global_code" : "87C4VWWV+3R"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJfbcbI623t4kRG0BhsUK7Bys",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 160
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "The George Washington University, 2300 I St NW, Washington, DC 20052, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.900097,
+               "lng" : -77.05080079999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.90144847989271,
+                  "lng" : -77.04976157010728
+               },
+               "southwest" : {
+                  "lat" : 38.89874882010727,
+                  "lng" : -77.05246122989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Colonial Bistro",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJv_VRgLG3t4kR2zE3zRO_Mfo",
+         "plus_code" : {
+            "compound_code" : "WW2X+2M Washington, District of Columbia",
+            "global_code" : "87C4WW2X+2M"
+         },
+         "rating" : 5,
+         "reference" : "ChIJv_VRgLG3t4kR2zE3zRO_Mfo",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1
+      }
+   ],
+   "status" : "OK"
+}

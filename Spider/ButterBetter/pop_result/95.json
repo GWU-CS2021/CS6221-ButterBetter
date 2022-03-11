@@ -1,0 +1,15 @@
+{
+  "id": "ChIJIY9N2tm3t4kRd_1b8gvFCOE",
+  "name": "I-Thai Restaurant & Sushi Bar",
+  "address": "3003 M St NW, Washington, DC 20007, USA",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "coordinates": {
+    "lat": 38.90536780000001,
+    "lng": -77.05940609999999
+  }
+}

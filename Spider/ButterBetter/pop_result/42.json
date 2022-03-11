@@ -1,0 +1,19 @@
+{
+  "id": "ChIJaxYt37O3t4kROOcROE0_B88",
+  "name": "Subway",
+  "address": "900 23rd St NW, Washington, DC 20037, USA",
+  "types": [
+    "meal_takeaway",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "coordinates": {
+    "lat": 38.9014236,
+    "lng": -77.05056669999999
+  },
+  "rating": 4,
+  "rating_n": 51,
+  "international_phone_number": "+1 202-715-4803"
+}

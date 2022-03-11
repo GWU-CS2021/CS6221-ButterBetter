@@ -1,0 +1,18 @@
+{
+  "id": "ChIJeys3p7O3t4kRYgii7tUyv1c",
+  "name": "Dish + Drinks",
+  "address": "924 25th St NW, Washington, DC 20037, USA",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "coordinates": {
+    "lat": 38.9014311,
+    "lng": -77.05370909999999
+  },
+  "rating": 4.4,
+  "rating_n": 107,
+  "international_phone_number": "+1 202-338-8708"
+}

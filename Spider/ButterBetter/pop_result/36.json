@@ -1,0 +1,19 @@
+{
+  "id": "ChIJLylg-Lu3t4kR1vQqZW5x3jY",
+  "name": "Cafe Soleil",
+  "address": "839 17th St NW, Washington, DC 20006, USA",
+  "types": [
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "coordinates": {
+    "lat": 38.9009945,
+    "lng": -77.0392487
+  },
+  "rating": 3.9,
+  "rating_n": 171,
+  "international_phone_number": "+1 202-974-4260"
+}

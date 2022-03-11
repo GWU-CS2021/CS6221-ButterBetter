@@ -1,0 +1,983 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "formatted_address" : "924 25th St NW, Washington, DC 20037, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.9014311,
+               "lng" : -77.05370909999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.90276307989272,
+                  "lng" : -77.05215742010728
+               },
+               "southwest" : {
+                  "lat" : 38.90006342010728,
+                  "lng" : -77.05485707989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Dish + Drinks",
+         "permanently_closed" : true,
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114209248447040208756\"\u003eMoniqua Farrari\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEB8ff8z9IC-E8Tooru06v54GtWHeybdzIIL_iZj1SP_DOWYrRk3rhBIR1AwIRe-dHvW8aP2kV16sooHehtrFDuqNwb_nPYFODot-p_LmNqRRNp2VuP-ER3zsIKaPjj9bs6cmp3_3Axx1qpCY5hoSfGneXDXgkuliCqdmtrhg6MBY4xK",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJeys3p7O3t4kRYgii7tUyv1c",
+         "plus_code" : {
+            "compound_code" : "WW2W+HG Washington, District of Columbia",
+            "global_code" : "87C4WW2W+HG"
+         },
+         "price_level" : 2,
+         "rating" : 4.4,
+         "reference" : "ChIJeys3p7O3t4kRYgii7tUyv1c",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 107
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "2121 K St NW, Washington, DC 20037, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.902957,
+               "lng" : -77.047228
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.90415027989272,
+                  "lng" : -77.04581577010728
+               },
+               "southwest" : {
+                  "lat" : 38.90145062010728,
+                  "lng" : -77.04851542989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "HomeSlyce - D.C.",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 855,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104068411869605259320\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBF9iS4a3rwKwm2fgn6BY1jLXYewmn5XI139Tpe5w6xWeQN950dYkDIjcHi_km--QuFvNNqP2uNvKt1ZPoxurhPQUAdMLm2_1boDLEqcSeiX_6FW08FSLxZWpso24i0XrbXqbtqTx4qNydwV_MBgU09WbnpCB93ng36DG00SRyVQMxq",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJrc6iL7e3t4kRTPDzz6TI_ho",
+         "plus_code" : {
+            "compound_code" : "WX33+54 Washington, District of Columbia",
+            "global_code" : "87C4WX33+54"
+         },
+         "price_level" : 1,
+         "rating" : 4.4,
+         "reference" : "ChIJrc6iL7e3t4kRTPDzz6TI_ho",
+         "types" : [
+            "meal_delivery",
+            "meal_takeaway",
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 453
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "2000 Pennsylvania Ave NW Lbby 15, Washington, DC 20006, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.9001436,
+               "lng" : -77.0456938
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.90177277989272,
+                  "lng" : -77.04426222010727
+               },
+               "southwest" : {
+                  "lat" : 38.89907312010728,
+                  "lng" : -77.04696187989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Chipotle Mexican Grill",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110000875807204461713\"\u003eMelanie Sierra\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECSubHX-tQEBbHFV76T8Z88PDFBfXn1VDIWAJUzYGXuBjYI3W4SC5jnVoZExzidxhhagHsQP6wutZXWYAyOp-6NPOBA8G7OZjr0ELMOGdkh9tTitGlk43De-bdp7f43hVqSvK6ruXiKNDAAGoIvazBBAlPstVGr8TL2uNQ3gdeILdXc",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJZSVThbC3t4kRFGgPsG-w6mU",
+         "plus_code" : {
+            "compound_code" : "WX23+3P Washington, District of Columbia",
+            "global_code" : "87C4WX23+3P"
+         },
+         "price_level" : 1,
+         "rating" : 3.8,
+         "reference" : "ChIJZSVThbC3t4kRFGgPsG-w6mU",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 290
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Harbour at The Georgetown Waterfront, 3000 K St NW, The Washington, Washington, DC 20007, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.9016331,
+               "lng" : -77.05970069999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.90331292989273,
+                  "lng" : -77.05854482010729
+               },
+               "southwest" : {
+                  "lat" : 38.90061327010728,
+                  "lng" : -77.06124447989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Farmers Fishers Bakers",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2992,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105201699677486408719\"\u003eMirela Spasova\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBVUm-HCqyv_P-hcPPi8U4qdF6ZQ0iYtKPqmsMqdLyeQxmi3sIb8_8XqWxbx_uSYnI4LVYkJwCoShPsOeC6fWE9BJIDPLy3xpbIr4KK7jjGX2fjf-j21mUAViIHhfH-GNPzIN_LPhDGXkMhMmB4FMVhxUXN0nsVojWtdVFG9FemHafl",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJqfFEQ0y2t4kRJYcfZb70K24",
+         "plus_code" : {
+            "compound_code" : "WW2R+M4 Washington, District of Columbia",
+            "global_code" : "87C4WW2R+M4"
+         },
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "ChIJqfFEQ0y2t4kRJYcfZb70K24",
+         "types" : [ "bar", "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3750
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "2275 L St NW, Washington, DC 20037, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.9039037,
+               "lng" : -77.04988329999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.90517332989272,
+                  "lng" : -77.04854607010728
+               },
+               "southwest" : {
+                  "lat" : 38.90247367010728,
+                  "lng" : -77.05124572989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Ris",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1908,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114145207145245750975\"\u003eDerrick Aquino\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBopbinJ3V2jBdqCAOXJDESR4J8imMVWzuLxd2lzvP6d12W8j66OV2P22L53buXIeTYrbyHTavmPBOjB4T4ubt_x0sCGiSZHhc4MyKdFGrCsGzht_GfBtv8ncVfwNg1pUNDFyBxw-TA4dACor_FrvCJPOAFMSNdzJwed-_8i4AdC7md",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ3Sl-vba3t4kR69SFBTOnHT8",
+         "plus_code" : {
+            "compound_code" : "WX32+H2 Washington, District of Columbia",
+            "global_code" : "87C4WX32+H2"
+         },
+         "price_level" : 3,
+         "rating" : 4.5,
+         "reference" : "ChIJ3Sl-vba3t4kR69SFBTOnHT8",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 265
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "2201 M St NW, Washington, DC 20037, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.9053839,
+               "lng" : -77.0491591
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.90677252989273,
+                  "lng" : -77.04763217010728
+               },
+               "southwest" : {
+                  "lat" : 38.90407287010728,
+                  "lng" : -77.05033182989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Chef Geoff's West End",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103903526938018853314\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBfOr4Dbnb2Ql8KNz3rTGVTbN5Al-6-GD0srrar2TGfj1TLCYDkUJ3vJcNjb6VptEA29Nffka2GM0c0Zoeek-d9T7r1FccH7uRbvL8wpOXzmdJvgMXuf0XjdgzTg587_BtGc_xMRTMHtMATYaSkwUVOs9P1k2NYss7ktJd8EPyDO7pZ",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJtzxgmCa3t4kRosPkvNfA0XE",
+         "plus_code" : {
+            "compound_code" : "WX42+58 Washington, District of Columbia",
+            "global_code" : "87C4WX42+58"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJtzxgmCa3t4kRosPkvNfA0XE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 200
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "528 23rd St NW, Washington, DC 20037, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.8967792,
+               "lng" : -77.05057889999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.89829622989272,
+                  "lng" : -77.04924432010728
+               },
+               "southwest" : {
+                  "lat" : 38.89559657010728,
+                  "lng" : -77.05194397989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Magic Gourd Restaurant",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102247310233828159662\"\u003eRonald Lobo Rojas\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECnwUtksVO5NPAhjs4lIXQgaUXK4uRXtG00TDCj3nYfk3Dcx5kwz9gIpUOnwlHwWbgjCoj0Zuf2T77a8WMIDEtFuJ70opdjHven9JY1ZOt-X7xKG2b5V-8GI1pyZX1CaxzNgh791Y_wIi3qmuRCNX5QmcmVKPXJgVsus_kKbOSnH1b8",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJ9wVeDq63t4kRwh7qDu3zyqo",
+         "plus_code" : {
+            "compound_code" : "VWWX+PQ Washington, District of Columbia",
+            "global_code" : "87C4VWWX+PQ"
+         },
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "ChIJ9wVeDq63t4kRwh7qDu3zyqo",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 139
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "1201 24th St NW, Washington, DC 20037, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.9055579,
+               "lng" : -77.0511497
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.90712147989272,
+                  "lng" : -77.04992497010727
+               },
+               "southwest" : {
+                  "lat" : 38.90442182010727,
+                  "lng" : -77.05262462989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Blue Duck Tavern",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100079896025512125761\"\u003ewkmaiday\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDvxKeyme3hVgbNp_33UVnqFOd6jsswISmDCS0jKxlD8NDmqJp0sTtHM-VyXDD1SHPgMX0yeM8PpOcmvFP_zeTKwqGb6WcZfO6sfIsJuyRbGbb-v6T1uuGO3YikDTq5hL3ynIyTWnt2mdD0HN6UvXSxwp02xR3LFJfnNHsX7g4OtDsK",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJFY3V1rW3t4kRquA_GeY5ALI",
+         "plus_code" : {
+            "compound_code" : "WW4X+6G Washington, District of Columbia",
+            "global_code" : "87C4WW4X+6G"
+         },
+         "price_level" : 3,
+         "rating" : 4.5,
+         "reference" : "ChIJFY3V1rW3t4kRquA_GeY5ALI",
+         "types" : [
+            "night_club",
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1324
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "1828 L St NW, Washington, DC 20036, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.9035697,
+               "lng" : -77.04290619999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.90500587989273,
+                  "lng" : -77.04156042010727
+               },
+               "southwest" : {
+                  "lat" : 38.90230622010728,
+                  "lng" : -77.04426007989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Little Sesame",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115644520976543040925\"\u003eSamuel Breslow\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBUinpWZAOQs8fGaZB5q_tEs8cekbsrerZjGJXrBkBNtnzReV7RGY2HrOpNd9tmoaHt7bWRtPpx2LFvSq_oZtrL8AdhGKS5bXnTw6OPXgUPIPbBDuYmxitY102lVduVN84fBHMKTjhBKKsanrJ5DJTIt1zKtkmpwEvvalKHE3cZsomT",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJYaQYOfW3t4kRZiA0E--if08",
+         "plus_code" : {
+            "compound_code" : "WX34+CR Washington, District of Columbia",
+            "global_code" : "87C4WX34+CR"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJYaQYOfW3t4kRZiA0E--if08",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 160
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "2401 M St NW, Washington, DC 20037, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.9054673,
+               "lng" : -77.0519331
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.90698237989271,
+                  "lng" : -77.05037772010728
+               },
+               "southwest" : {
+                  "lat" : 38.90428272010727,
+                  "lng" : -77.05307737989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Juniper Restaurant",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117950593806403998101\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBHFIiX42by2QdBqGiVbp5HSxpe_SiC9cJZ1r6bXXGiarBMEBMpPT23_oGQHYISQ_yhEOnJqCZzt-FvqI23AhWHrJHgCOoyUvN7GZ5nKj7D3X4hzH6Qv494buyFmqk6HmVwoDHb3m-21G8RWOcCNTeSbVEHk2XM7hfrWwZ-NzgWxud_",
+               "width" : 1500
+            }
+         ],
+         "place_id" : "ChIJk6I2zLW3t4kRruzGk-o-A4U",
+         "plus_code" : {
+            "compound_code" : "WW4X+56 Washington, District of Columbia",
+            "global_code" : "87C4WW4X+56"
+         },
+         "price_level" : 3,
+         "rating" : 4,
+         "reference" : "ChIJk6I2zLW3t4kRruzGk-o-A4U",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 40
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Shenkman Hall, 616 23rd St NW, Washington, DC 20037, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.8979688,
+               "lng" : -77.05036459999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.89949467989273,
+                  "lng" : -77.04902237010727
+               },
+               "southwest" : {
+                  "lat" : 38.89679502010728,
+                  "lng" : -77.05172202989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "TEASHI",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115526742922087332482\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAEv3EDx-Odn0s5nRvi8WoUfgZje2DTfCs-RmNN4S_rDljt5gHxlq6zgu01M_luGRZ-4bHv-lK6qk-NNmVjElCZSUODZIBUfLzcrdJNKzEAri_KwPx7QJPspQK9aEBXHUOqGyDBVw1T2ABOadw7C8KxlEy005vBhssmYxGTZWF2sj-Q",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJX1RQ-bG3t4kRFQG5gEYKHxQ",
+         "plus_code" : {
+            "compound_code" : "VWXX+5V Washington, District of Columbia",
+            "global_code" : "87C4VWXX+5V"
+         },
+         "price_level" : 2,
+         "rating" : 3.6,
+         "reference" : "ChIJX1RQ-bG3t4kRFQG5gEYKHxQ",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 15
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "formatted_address" : "839 17th St NW, Washington, DC 20006, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.9009945,
+               "lng" : -77.0392487
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.90234732989273,
+                  "lng" : -77.03797852010727
+               },
+               "southwest" : {
+                  "lat" : 38.89964767010729,
+                  "lng" : -77.04067817989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Cafe Soleil",
+         "permanently_closed" : true,
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103567769403740155108\"\u003eNaoji Watson\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEA0dDqTADAKcRx01_zxoz6Eh64LAmVQF2ZKofkVF1ZzYpHxutJSNmM1YbJGuGr224YtBuDofBYtWpie8XUwwUuUF9MbNg9rGRp4UjiLuw0u6kBOIjDHMZzcAdbuubuXMkKScMM7lKRi_vadCdTP0FnPhNLTmF1AflFFI0_BmqwQF8GV",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJLylg-Lu3t4kR1vQqZW5x3jY",
+         "plus_code" : {
+            "compound_code" : "WX26+98 Washington, District of Columbia",
+            "global_code" : "87C4WX26+98"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJLylg-Lu3t4kR1vQqZW5x3jY",
+         "types" : [ "bar", "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 171
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "1776 I Street Northwest Entrance on 18th between H and, I St NW, Washington, DC 20006, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.9009931,
+               "lng" : -77.0415117
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.90238642989272,
+                  "lng" : -77.04025032010728
+               },
+               "southwest" : {
+                  "lat" : 38.89968677010728,
+                  "lng" : -77.04294997989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Taberna del Alabardero",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 680,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102749470530601183232\"\u003eTaberna del Alabardero\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEB2sQcp_vKCbebDD0NqjxEGgfaEJ2u0rty8It3pf_aatjpDKJxd7Etdg5cQ8kTQuDneGi_xhvTJF8hBXvas6Z1wiBXChJxmbV-qV2LQ0AK2Yj_O-qd0DlWGPdnieJs5gJzVvxi-ios3uvdcXs8HFY5mjEoXyKMkgqLbrMR5Nm2r1nbB",
+               "width" : 1020
+            }
+         ],
+         "place_id" : "ChIJ66DXz7u3t4kRZEE4ew8YgME",
+         "plus_code" : {
+            "compound_code" : "WX25+99 Washington, District of Columbia",
+            "global_code" : "87C4WX25+99"
+         },
+         "price_level" : 3,
+         "rating" : 4.5,
+         "reference" : "ChIJ66DXz7u3t4kRZEE4ew8YgME",
+         "types" : [
+            "meal_takeaway",
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 718
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "1730 Pennsylvania Avenue NW, Washington, DC 20006, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.8986578,
+               "lng" : -77.04034489999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.90021582989272,
+                  "lng" : -77.03891622010727
+               },
+               "southwest" : {
+                  "lat" : 38.89751617010727,
+                  "lng" : -77.0416158798927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+         "name" : "GCDC Grilled Cheese Bar",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112459269294153218090\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAa1OBzcCZzafKc5G2JpTkw12S71lHT5NRU45ihQHVj5WviMiBHB3_4AvOz4uKdjes3zQnZPS8mkDR65JUGSOEE6mDIU7v8T1j0pjppOirVzQOifRsVCbNdQ6lV8ptr3KOj9AfVJ43VtHT-IxgBSUfzkm9xe9IWFPf_Bv0vGRPlw08J",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJRTFadLu3t4kRDt2GBbe56WI",
+         "plus_code" : {
+            "compound_code" : "VXX5+FV Washington, District of Columbia",
+            "global_code" : "87C4VXX5+FV"
+         },
+         "price_level" : 2,
+         "rating" : 4.4,
+         "reference" : "ChIJRTFadLu3t4kRDt2GBbe56WI",
+         "types" : [
+            "meal_takeaway",
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1372
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "1959 E St NW Space C, Washington, DC 20052, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.8963938,
+               "lng" : -77.044735
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.89754437989272,
+                  "lng" : -77.04311827010729
+               },
+               "southwest" : {
+                  "lat" : 38.89484472010728,
+                  "lng" : -77.04581792989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Subway",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1300,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116803635253690016695\"\u003eSubway\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBxJDsJmk5LaAIOA1NdkJfxHDuZAXxQyRq2QciKP4IqWLpwsqbYD7SzTae5LC8cS9LCpgMU6j7KB_OpAYw0l3_WOWCSpnojcIF7-KNC_lqAGE0I6hF20XA_YW6k2PqkMBVMp4EW5kdyPZQc0UDJV1Mbc3QvcvsKhJBniX_N0p_mtzxB",
+               "width" : 1301
+            }
+         ],
+         "place_id" : "ChIJZW7VWqW3t4kRykItbY-Q1tI",
+         "plus_code" : {
+            "compound_code" : "VXW4+H4 Washington, District of Columbia",
+            "global_code" : "87C4VXW4+H4"
+         },
+         "price_level" : 1,
+         "rating" : 3.9,
+         "reference" : "ChIJZW7VWqW3t4kRykItbY-Q1tI",
+         "types" : [
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 140
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "2101 L St NW, Washington, DC 20037, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.9042694,
+               "lng" : -77.0468083
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.90537772989273,
+                  "lng" : -77.04578417010727
+               },
+               "southwest" : {
+                  "lat" : 38.90267807010729,
+                  "lng" : -77.04848382989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Soi 38",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101753983184847464221\"\u003eaegreve\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBo0QLhF1LcyOvm4w2kNDY02TvOW58fdNcnYamK4VCgy0uU47ptAYhM8FB1Yv6A2JwT3n_WYQhSXMKHBN96GtLf-lzeQNZREr8zeDQLKZjlseTzuCBITpY6Qt0NsikOBpaUHj8EqyRHBa4liteALYqedM79Tkq8WVBm-Pvj0d-02HNM",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJPdIrEbe3t4kRdW8M2pswDwo",
+         "plus_code" : {
+            "compound_code" : "WX33+P7 Washington, District of Columbia",
+            "global_code" : "87C4WX33+P7"
+         },
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "ChIJPdIrEbe3t4kRdW8M2pswDwo",
+         "types" : [ "bar", "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 634
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "2000 Pennsylvania Avenue NW, Washington, DC 20006, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.9003063,
+               "lng" : -77.0450776
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.90185412989272,
+                  "lng" : -77.04410797010729
+               },
+               "southwest" : {
+                  "lat" : 38.89915447010728,
+                  "lng" : -77.04680762989274
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "PAUL Foggy Bottom",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108823863836720515661\"\u003eLev Agranovich, EA MSA CFC PA CDFA\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEB6kgXPFIBDHfb70Jou3f2c1M8mbPoFZcicDTQM7T3e4MlTid-DGrsHFWKHFTvjIdaLPtkTI0fFg1aHAC-jICZBp2F7QUD86_oQurPS86gOCaZF3LXr4oKRP8eAKPx5plSFF5_Mqb02iCn6L_o-EELYKbs1JCUDSzHBfp5LPGmBhKya",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJTYNKhbC3t4kRUud1tYxRxt0",
+         "plus_code" : {
+            "compound_code" : "WX23+4X Washington, District of Columbia",
+            "global_code" : "87C4WX23+4X"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJTYNKhbC3t4kRUud1tYxRxt0",
+         "types" : [
+            "bakery",
+            "meal_takeaway",
+            "cafe",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 290
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "1200 18th St NW #2, Washington, DC 20036, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.905869,
+               "lng" : -77.041849
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.90718862989272,
+                  "lng" : -77.04041787010728
+               },
+               "southwest" : {
+                  "lat" : 38.90448897010727,
+                  "lng" : -77.04311752989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Daily Grill",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3937,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104472238106400622015\"\u003eDaily Grill\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDYRZ5sAYrAuBCkahznVk0NEszxtEHk_DQuH0aIylcaf8FXXXBQRvsyXpj3Hu6R6ap89uR2fSW4QRVdDl2WQcf84se0uaUGT_n8OsBAQEda32_CKoNbj0A4mU6fatSbosmklwlTGTcY0VZmow9zwCCYPdP-7p1p76n3p0JVbzQp8MmZ",
+               "width" : 5905
+            }
+         ],
+         "place_id" : "ChIJ_R1Viri3t4kRtWoV1_kM6e0",
+         "plus_code" : {
+            "compound_code" : "WX45+87 Washington, District of Columbia",
+            "global_code" : "87C4WX45+87"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJ_R1Viri3t4kRtWoV1_kM6e0",
+         "types" : [ "bar", "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 662
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "1575 I St NW #1, Washington, DC 20005, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.9014858,
+               "lng" : -77.0353295
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.90276392989271,
+                  "lng" : -77.03398967010729
+               },
+               "southwest" : {
+                  "lat" : 38.90006427010727,
+                  "lng" : -77.03668932989274
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Eye Street Grill",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1552,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100948391256473143064\"\u003eArnold Thomas Bigger\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDLixFz_Ln5bjvU9e0NfuWhau18udQvV6CaENFAvrusbmvFuyKriJmluG8x8Ay_uYYr_I9ogk57qKIGjX3EYvBzeqbEZDhAhTLYDoRjOUb5zjWi5J59JopgpzXi2wCUiQNh0FQRaT-F-rONRfZm0gGy53ri-0swXFxIHeLA8UCvXQOp",
+               "width" : 2592
+            }
+         ],
+         "place_id" : "ChIJxcidcL63t4kRuIjzYG7tVuA",
+         "plus_code" : {
+            "compound_code" : "WX27+HV Washington, District of Columbia",
+            "global_code" : "87C4WX27+HV"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJxcidcL63t4kRuIjzYG7tVuA",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 110
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "1143 New Hampshire Ave NW Ground Floor, Washington, DC 20037, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.9048095,
+               "lng" : -77.04758629999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.90622592989271,
+                  "lng" : -77.04625442010727
+               },
+               "southwest" : {
+                  "lat" : 38.90352627010727,
+                  "lng" : -77.04895407989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Mercy Me",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3396,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100766708509484503823\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEClEFBXLXX2rfcw-P2ZIo2aV0CRxxl72s0h41Mu9_qnH8-VQrFQJfeegQbdvZTAJ0VnpT7Wsqz1EK14qvL1Kh0xYVZ_nfhh8fzlhcOdVk1kegHtlB22JnGEAb3Bd7ZKk89s4PctPrXPelK-oyqbwY_Gl9IyKI4L1CX6zexd7d27olq5",
+               "width" : 2624
+            }
+         ],
+         "place_id" : "ChIJwwGqYPC3t4kRSIah18Lt-zo",
+         "plus_code" : {
+            "compound_code" : "WX32+WX Washington, District of Columbia",
+            "global_code" : "87C4WX32+WX"
+         },
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "ChIJwwGqYPC3t4kRSIah18Lt-zo",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 274
+      }
+   ],
+   "status" : "OK"
+}

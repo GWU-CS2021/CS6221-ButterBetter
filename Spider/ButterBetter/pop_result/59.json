@@ -1,0 +1,18 @@
+{
+  "id": "ChIJfbcbI623t4kRG0BhsUK7Bys",
+  "name": "KC Caf\u00e9",
+  "address": "2700 F St NW, Washington, DC 20566, USA",
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "coordinates": {
+    "lat": 38.8951806,
+    "lng": -77.0553944
+  },
+  "rating": 3.8,
+  "rating_n": 160,
+  "international_phone_number": "+1 202-467-4600"
+}

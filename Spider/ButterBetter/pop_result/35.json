@@ -1,0 +1,18 @@
+{
+  "id": "ChIJX1RQ-bG3t4kRFQG5gEYKHxQ",
+  "name": "TEASHI",
+  "address": "Shenkman Hall, 616 23rd St NW, Washington, DC 20037, USA",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "coordinates": {
+    "lat": 38.8979688,
+    "lng": -77.0503646
+  },
+  "rating": 4.2,
+  "rating_n": 38,
+  "international_phone_number": "+1 301-533-6118"
+}

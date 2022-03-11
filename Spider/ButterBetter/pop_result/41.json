@@ -1,0 +1,16 @@
+{
+  "id": "ChIJd1BoaJO3t4kRQVXx3ukqjt4",
+  "name": "The House Of Falafel",
+  "address": "2122 H St NW, Washington, DC 20037, USA",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "coordinates": {
+    "lat": 38.8992027,
+    "lng": -77.0474966
+  },
+  "international_phone_number": "+1 202-730-6876"
+}

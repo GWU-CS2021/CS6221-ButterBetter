@@ -1,0 +1,19 @@
+{
+  "id": "ChIJ5YlWGre3t4kR0IkzpZU5Eiw",
+  "name": "Stoney's on L",
+  "address": "2101 L St NW Suite #103, Washington, DC 20037, USA",
+  "types": [
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "coordinates": {
+    "lat": 38.9038635,
+    "lng": -77.0472558
+  },
+  "rating": 4.3,
+  "rating_n": 614,
+  "international_phone_number": "+1 202-721-0019"
+}

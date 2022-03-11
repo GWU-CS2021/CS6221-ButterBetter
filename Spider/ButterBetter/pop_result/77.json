@@ -1,0 +1,18 @@
+{
+  "id": "ChIJN3N_30i2t4kRFoNd4TBn-68",
+  "name": "Luke's Lobster Georgetown",
+  "address": "1211 Potomac St NW, Washington, DC 20007, USA",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "coordinates": {
+    "lat": 38.905528,
+    "lng": -77.065017
+  },
+  "rating": 4.5,
+  "rating_n": 481,
+  "international_phone_number": "+1 202-333-4863"
+}

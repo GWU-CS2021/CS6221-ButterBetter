@@ -1,0 +1,18 @@
+{
+  "id": "ChIJF4K__7C3t4kRhWgg41NL_9w",
+  "name": "GRK Fresh Greek - H St NW Washington DC",
+  "address": "2121 H St NW, Washington, DC 20052, USA",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "coordinates": {
+    "lat": 38.8999783,
+    "lng": -77.0477196
+  },
+  "rating": 3.8,
+  "rating_n": 38,
+  "international_phone_number": "+1 202-250-5137"
+}

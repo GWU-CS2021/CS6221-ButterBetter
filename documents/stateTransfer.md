@@ -1,0 +1,35 @@
+- State Init
+  - My name is...| I'm ...| Call me...
+    - To State Init Name
+  - I'm at ...|I'm around ...| I'm near...
+    - To State Init Location
+  - Location/Name is present
+    - To State Ready
+- State Init Name
+  - I'm at ...|I'm around ...| I'm near...
+    - To state Ready
+- State Init Location
+  - My name is ...| I'm ...| Call me...
+    - To State Ready
+- State Ready
+  - My name is ....| I'm ...| Call me...
+    - To State Ready
+  - I'm at ...|I'm around ...| I'm near...
+    - To state Ready
+  - Find me some xxx food| best xxx food around| check on xxx food
+    - To state Search
+- State search
+  - E.G. cheap restaurant with in walk distance
+    - To state Result
+  - Fall back
+    - To state Ready
+- State result
+  - Next
+    - To state Result
+  - Previous
+    - To State Result
+  - Read Review|give me some review...
+    - To State Result
+  - Send to phone
+    - END
+
